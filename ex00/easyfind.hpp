@@ -3,7 +3,6 @@
 
 #include <algorithm>
 #include <vector>
-#include <list>
 #include <iostream>
 
 class FindException : public std::exception
